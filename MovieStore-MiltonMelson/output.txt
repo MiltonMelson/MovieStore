@@ -1,0 +1,7 @@
+./create-output.sh: line 2: $'\r': command not found
+./create-output.sh: line 4: $'\r': command not found
+./create-output.sh: line 8: $'\r': command not found
+./create-output.sh: line 10: $'date\r': command not found
+./create-output.sh: line 11: $'\r': command not found
+./create-output.sh: line 89: syntax error near unexpected token `$'do\r''
+./create-output.sh: line 89: `  for f in ./*.cpp; do'
